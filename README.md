@@ -2,6 +2,8 @@
 
 **I build grounded, tool-using AI systems for regulated and operational B2B.**
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Wolfgang%20Kriesel-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wolfgang-kriesel/)
+
 Lean Six Sigma Master Black Belt turned AI engineer. I pair real operational and
 regulatory domain knowledge with current AI engineering — **MCP, RAG, and agents** —
 and I care about systems that are grounded, reproducible, and honest about their limits.
@@ -37,3 +39,7 @@ Together they show MCP · RAG · agents across both official MCP SDKs (Python an
 
 Lean Six Sigma (Master Black Belt) · process improvement · EU AI Act / regulated B2B ·
 operational tooling.
+
+### Connect
+
+[LinkedIn — linkedin.com/in/wolfgang-kriesel](https://www.linkedin.com/in/wolfgang-kriesel/)
