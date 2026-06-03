@@ -4,9 +4,11 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Wolfgang%20Kriesel-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wolfgang-kriesel/)
 
-Lean Six Sigma Master Black Belt turned AI engineer. I pair real operational and
-regulatory domain knowledge with current AI engineering — **MCP, RAG, and agents** —
-and I care about systems that are grounded, reproducible, and honest about their limits.
+Founding Partner at **value companion**, where I lead AI implementation for regulated
+industries — pharma, biotech, food & beverage, and industrial plant engineering. I pair
+15+ years of regulated-industry project delivery (GMP, capex, technology transfer) with
+hands-on AI engineering — **MCP, RAG, and agents** — and I care about systems that are
+grounded, reproducible, and honest about their limits.
 
 Everything below runs in under five minutes with **no API key and no accounts** (a
 deterministic mock LLM is the default), so you can clone and see it work right away.
@@ -33,12 +35,13 @@ Together they show MCP · RAG · agents across both official MCP SDKs (Python an
 ### Toolbox
 
 `Python` · `TypeScript` · `Model Context Protocol (MCP)` · `RAG` · `AI agents` ·
-`SQLite` · `numpy/scipy` · `Lean Six Sigma (DMAIC)`
+`SQLite` · `numpy/scipy` · `EU AI Act self-assessment`
 
 ### Domain
 
-Lean Six Sigma (Master Black Belt) · process improvement · EU AI Act / regulated B2B ·
-operational tooling.
+Regulated industries (pharma · biotech · food · plant engineering) · EU AI Act &
+GMP-grade compliance · capex & technology-transfer project management · operational
+excellence (incl. Lean / Six Sigma methods).
 
 ### Connect
 
